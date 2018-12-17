@@ -1,0 +1,42 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://chinamaster.visualstudio.com/Zhiliao_Django/_git/Zhiliao_Django" />
+          <option name="serverUri" value="https://chinamaster.visualstudio.com" />
+          <option name="userId" value="fb695538-915a-658c-a86f-9d7c5cdcbf47" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;eb30c6c3-b771-43ca-b46a-380618120f51&quot;,&quot;name&quot;:&quot;chinamaster&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/_apis/projectCollections/eb30c6c3-b771-43ca-b46a-380618120f51&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;知了课堂Django学习用&quot;,&quot;id&quot;:&quot;2c8bc96e-0e7d-4cab-870f-58de62bef4ed&quot;,&quot;name&quot;:&quot;Zhiliao_Django&quot;,&quot;revision&quot;:152,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/_apis/projects/2c8bc96e-0e7d-4cab-870f-58de62bef4ed&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;d8767db9-1298-4503-b4d4-09bf6d88196e&quot;,&quot;name&quot;:&quot;Zhiliao_Django&quot;,&quot;remoteUrl&quot;:&quot;https://chinamaster.visualstudio.com/Zhiliao_Django/_git/Zhiliao_Django&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/2c8bc96e-0e7d-4cab-870f-58de62bef4ed/_apis/git/repositories/d8767db9-1298-4503-b4d4-09bf6d88196e&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;知了课堂Django学习用&quot;,&quot;id&quot;:&quot;2c8bc96e-0e7d-4cab-870f-58de62bef4ed&quot;,&quot;name&quot;:&quot;Zhiliao_Django&quot;,&quot;revision&quot;:152,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/_apis/projects/2c8bc96e-0e7d-4cab-870f-58de62bef4ed&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://chinamaster.visualstudio.com/Head%20First%20Python%202e/_git/Head%20First%20Python%202e" />
+          <option name="serverUri" value="https://chinamaster.visualstudio.com" />
+          <option name="userId" value="fb695538-915a-658c-a86f-9d7c5cdcbf47" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;eb30c6c3-b771-43ca-b46a-380618120f51&quot;,&quot;name&quot;:&quot;chinamaster&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/_apis/projectCollections/eb30c6c3-b771-43ca-b46a-380618120f51&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;按照《Head First Python》第二版进行学习的练习&quot;,&quot;id&quot;:&quot;a279680c-6f30-461a-bdae-445f234be16a&quot;,&quot;name&quot;:&quot;Head First Python 2e&quot;,&quot;revision&quot;:116,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/_apis/projects/a279680c-6f30-461a-bdae-445f234be16a&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;1f74aa29-6f7e-454e-9732-82d67bd990b1&quot;,&quot;name&quot;:&quot;Head First Python 2e&quot;,&quot;remoteUrl&quot;:&quot;https://chinamaster.visualstudio.com/Head%20First%20Python%202e/_git/Head%20First%20Python%202e&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/a279680c-6f30-461a-bdae-445f234be16a/_apis/git/repositories/1f74aa29-6f7e-454e-9732-82d67bd990b1&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;按照《Head First Python》第二版进行学习的练习&quot;,&quot;id&quot;:&quot;a279680c-6f30-461a-bdae-445f234be16a&quot;,&quot;name&quot;:&quot;Head First Python 2e&quot;,&quot;revision&quot;:116,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://chinamaster.visualstudio.com/_apis/projects/a279680c-6f30-461a-bdae-445f234be16a&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/pystudy" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//chinamaster.visualstudio.com/zhiliao_django/_git/zhiliao_django" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

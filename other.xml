@@ -1,0 +1,48 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1545047275934" />
+    <option name="shownCourseIds">
+      <set>
+        <option value="25107" />
+        <option value="47300" />
+        <option value="50842" />
+      </set>
+    </option>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/study/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/django-env/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/django-env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/pystudy/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/pystudy/hfpy2/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/pystudy/venv_flask/bin/python3" value="false" />
+        <entry key="$USER_HOME$/pystudy/venv_flask_3_66/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/django-env/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/django-env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/pystudy/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/pystudy/hfpy2/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/pystudy/venv_flask/bin/python3" value="false" />
+        <entry key="$USER_HOME$/pystudy/venv_flask_3_66/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/envs/django-env/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/django-env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/pystudy/blog/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/pystudy/hfpy2/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/pystudy/venv_flask/bin/python3" value="false" />
+        <entry key="$USER_HOME$/pystudy/venv_flask_3_66/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
