@@ -6,8 +6,16 @@
           <option name="url" value="https://github.com/edgar88/loonflow.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/edgar88/shutongFlow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/edgar88/workflowdemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/pystudy" />
+    <option name="cloneParentDir" value="$USER_HOME$/pystudy/workflow" />
   </component>
 </application>
